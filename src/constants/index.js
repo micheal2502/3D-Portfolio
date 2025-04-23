@@ -57,41 +57,6 @@ const counterItems = [
   { value: 90, suffix: "%", label: "Client Retention Rate" },
 ];
 
-const logoIconsList = [
-  {
-    imgPath: "/images/logos/company-logo-1.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-2.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-3.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-4.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-5.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-6.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-7.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-8.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-9.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-10.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-11.png",
-  },
-];
 
 const abilities = [
   {
@@ -240,20 +205,14 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
+    name: "git",
+    imgPath: "/images/git.png",
+    link: 'https://github.com/hienan2303'
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    link: 'https://www.linkedin.com/in/duongtran2502/'
   },
 ];
 
@@ -262,7 +221,6 @@ export {
   AI,
   showcase,
   abilities,
-  logoIconsList,
   counterItems,
   expCards,
   expLogos,
