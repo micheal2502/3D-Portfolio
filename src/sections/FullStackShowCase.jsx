@@ -72,6 +72,20 @@ const FullStackShowCase = () => {
             </div>
           </div>
 
+          <div ref={rydeRef} className="first-project-wrapper">
+            <a href="https://tech-haven-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <div className="image-wrapper">
+                <img src="/images/Tech.png" alt="CarePulse App Interface" />
+              </div>
+            </a>
+            <div className="text-content">
+              <h2>Tech Haven</h2>
+              <p className="text-white-50 md:text-xl">
+                "A technology e-commerce platform where you can discover the best deals on a wide range of products."
+              </p>
+            </div>
+          </div>
+
 
 
             <div className="project-list-wrapper overflow-hidden">
