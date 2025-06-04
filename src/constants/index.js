@@ -144,7 +144,6 @@ const expCards = [
       "Conducted usability testing and gathered feedback to iteratively enhance user interactions and visual design.",
       "Optimized website performance through lazy loading, asset compression, and efficient code structure.",
     ],
-    ],
   },
   {
     review: "Micheal brought creativity and technical expertise to the team, significantly improving our frontend performance.",
