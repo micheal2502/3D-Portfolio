@@ -134,9 +134,22 @@ const techStackIcons = [
 
 const expCards = [
   {
+    review: "Michael helped us create an exceptional educational web experience beyond our expectations.",
+    title: "Web Developer - Agua International Education",
+    date: "April 2025 - Current",
+    responsibilities: [
+      "Designed high-fidelity UI/UX mockups in Figma, ensuring a consistent and intuitive user experience.",
+      "Implemented pixel-perfect front-end components using HTML, CSS, JavaScript, and modern frameworks.",
+      "Built responsive layouts to ensure optimal performance across desktops, tablets, and mobile devices.",
+      "Conducted usability testing and gathered feedback to iteratively enhance user interactions and visual design.",
+      "Optimized website performance through lazy loading, asset compression, and efficient code structure.",
+    ],
+    ],
+  },
+  {
     review: "Micheal brought creativity and technical expertise to the team, significantly improving our frontend performance.",
     title: "Frontend Developer - SuperSimpleIT",
-    date: "June 2024 - December 2024",
+    date: "August 2024 - April 2025",
     responsibilities: [
       "Developed responsive web applications using React and JavaScript, improving page load speed by 30%.",
       "Built 20+ responsive UI components and fixed UI bugs from Figma designs using Tailwind CSS and Material-UI.",
